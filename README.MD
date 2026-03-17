@@ -1,6 +1,6 @@
 # Raspberry Pi RV Router with ALFA
 
-This document is about setting up a small router for an RV that uses a long range dual band wifi adapter for connecting to a RV park wifi service.  
+This document is about setting up a small router for an RV that uses a long range dual band wifi adapter for connecting to a RV park's wifi service.  
 
 ## Prerequisites:
 
